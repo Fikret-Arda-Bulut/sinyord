@@ -33,5 +33,8 @@ public class login extends AppCompatActivity {
     });
 
 
+//<!-- https://ronurdemirtas.wordpress.com/2015/08/04/androidde-login-form-nasil-yapilir/ -->
+
+
 
 }
