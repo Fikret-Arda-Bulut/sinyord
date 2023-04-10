@@ -17,7 +17,7 @@
         android:layout_margin="30dp"
         app:cardCornerRadius="30dp"
         app:cardElevation="20dp"
-        android:background="@drawable/custom_edittext">
+        android:background="@drawable/custum_edittext">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -28,7 +28,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Login"
+                android:text="Giriş Yap"
                 android:id="@+id/loginText"
                 android:textSize="36sp"
                 android:textAlignment="center"
@@ -37,11 +37,11 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:id="@+id/username"
-                android:background="@drawable/custom_edittext"
+                android:id="@+id/kullaniciadi"
+                android:background="@drawable/custum_edittext"
                 android:drawableLeft="@drawable/ic_baseline_person_24"
                 android:drawablePadding="8dp"
-                android:hint="Username"
+                android:hint="Kullanıcı Adı"
                 android:padding="8dp"
                 android:textColor="@color/black"
                 android:textColorHighlight="@color/cardview_dark_background"
@@ -49,11 +49,11 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:id="@+id/password"
-                android:background="@drawable/custom_edittext"
+                android:id="@+id/sifre"
+                android:background="@drawable/custum_edittext"
                 android:drawableLeft="@drawable/ic_baseline_lock_24"
                 android:drawablePadding="8dp"
-                android:hint="Password"
+                android:hint="Şifre"
                 android:padding="8dp"
                 android:inputType="textPassword"
                 android:textColor="@color/black"
@@ -63,7 +63,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:id="@+id/loginButton"
-                android:text="Login"
+                android:text="Giriş Yap"
                 android:textSize="18sp"
                 android:layout_marginTop="30dp"
                 android:backgroundTint="@color/purple"
@@ -76,7 +76,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="8dp"
-        android:text="Not yet registered? SignUp Now"
+        android:text="Henüz kayıtlı değil misiniz? Şimdi kayıt ol"
         android:textSize="14sp"
         android:textAlignment="center"
         android:id="@+id/signupText"
