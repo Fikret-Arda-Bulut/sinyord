@@ -1,0 +1,9 @@
+sinyord
+
+SAHİP : F.ARDA BULUT
+
+GÜN   : 06.04.2023
+TAHMİNİ BİTİŞ : 15.04.2023
+
+1.GÜN
+TASARIM İLE UĞRAŞILACAK
