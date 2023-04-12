@@ -1,3 +1,7 @@
+
 <resources>
-    <string name="app_name">sinyord</string>
+    <string name="app_name">Sinyord</string>
+
+    <string name="login_package"> </string>
+
 </resources>

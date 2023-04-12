@@ -9,7 +9,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:background="@drawable/loginbkg"
-    tools:context=".login">
+    tools:context=".login.login">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -17,7 +17,7 @@
         android:layout_margin="30dp"
         app:cardCornerRadius="30dp"
         app:cardElevation="20dp"
-        android:background="@drawable/custum_edittext">
+        android:background="@drawable/custom_edittext">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -38,7 +38,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:id="@+id/kullaniciadi"
-                android:background="@drawable/custum_edittext"
+                android:background="@drawable/custom_edittext"
                 android:drawableLeft="@drawable/ic_baseline_person_24"
                 android:drawablePadding="8dp"
                 android:hint="Kullanıcı Adı"
@@ -50,7 +50,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:id="@+id/sifre"
-                android:background="@drawable/custum_edittext"
+                android:background="@drawable/custom_edittext"
                 android:drawableLeft="@drawable/ic_baseline_lock_24"
                 android:drawablePadding="8dp"
                 android:hint="Şifre"

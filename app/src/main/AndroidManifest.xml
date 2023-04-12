@@ -12,7 +12,7 @@
         android:theme="@style/Theme.Sinyord"
         tools:targetApi="31">
         <activity
-            android:name=".login"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,6 +20,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!--*************************************************************************************-->
+        <!--******************************* ANASAYFA UYGULAMALAR ********************************-->
+        <!--*************************************************************************************-->
+        <activity android:name=".login.login" android:label=""></activity>
+
     </application>
 
 </manifest>

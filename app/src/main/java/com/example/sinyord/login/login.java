@@ -1,10 +1,13 @@
-package com.example.sinyord;
+package com.example.sinyord.login;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.example.sinyord.R;
+
 public class login extends AppCompatActivity {
     EditText txtkullanıcıadi;
     EditText txtsifre;
@@ -19,7 +22,7 @@ public class login extends AppCompatActivity {
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (txtkullanıcıadi.getText().toString().equals("user") && txtsifre.getText().toString().equals("1234")) {
+                if (txtkullanıcıadi.getText().toString().equals("admin") && txtsifre.getText().toString().equals("1234")) {
                     Toast.makeText(login.this, "Giriş Başarılı!", Toast.LENGTH_SHORT).show();
                 } else {
                     Toast.makeText(login.this, "Giriş Başarısız!", Toast.LENGTH_SHORT).show();
