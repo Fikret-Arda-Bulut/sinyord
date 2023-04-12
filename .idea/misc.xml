@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/drawable/btn_bg.xml" value="0.1835" />
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/drawable/custom_edittext.xml" value="0.2035" />
         <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/drawable/custum_edittext.xml" value="0.1925" />
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/drawable/ic_facebook.xml" value="0.1835" />
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/drawable/ic_google.xml" value="0.2035" />
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/drawable/ic_security.xml" value="0.1835" />
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/drawable/input_bg.xml" value="0.2035" />
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/drawable/white_box.xml" value="0.1825" />
         <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/layout/activity_main.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/layout/dialog_forget.xml" value="0.17395833333333333" />
         <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/layout/login.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/Documents/sinyord/app/src/main/res/layout/signup.xml" value="0.16818642350557245" />
       </map>
     </option>
   </component>
